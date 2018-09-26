@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Play Juegos</string>
+    <string name="TextTitle">PLAY JUEGOS</string>
+    <string name="ButtonPlay">Play</string>
+    <string name="ButtonNewPLayer">New Player</string>
+    <string name="ButtonPreferences">Preferences</string>
+    <string name="ButtonAbout">About</string>
+    <string name="EditName">Name</string>
+    <string name="EditPName">Phonetic Name</string>
+    <string name="EditNickNane">NickName</string>
+    <string name="EditPhone">Phone</string>
+    <string name="EditEmail">E-Mail</string>
+    <string name="buttonPicChange">Change</string>
+    <string name="DescriptionUser">User icon</string>
+    <string name="DescriptionImage">Image icon</string>
+    <string name="DescriptionProfilePic">Profile Picture</string>
+    <string name="DescriptionPhone">Phone icon</string>
+    <string name="DescriptionEmail">Email icon</string>
+    <string name="SpinnerText">Gender</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Add</string>
+    <string name="action_search">Search</string>
+    <string name="PrefTitle">Elige una opción:</string>
+    <string name="Radio1">Angry Birds</string>
+    <string name="Radio2">Dragon Fly</string>
+    <string name="Radio3">Hill Climbing Racing</string>
+    <string name="Radio4">Pocket Soccer</string>
+    <string name="Radio5">Radiant Defence</string>
+</resources>
