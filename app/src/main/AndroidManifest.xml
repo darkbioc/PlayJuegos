@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".newplayer" />
-        <activity android:name=".preferencias"></activity>
+        <activity android:name=".preferencias" />
+        <activity android:name=".games"></activity>
     </application>
 
 </manifest>

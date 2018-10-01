@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity
 		setContentView(R.layout.activity_main);
 		Button buttonNewPlayer = findViewById(R.id.buttonNewPlayer);
 		Button buttonPreferences = findViewById(R.id.buttonPreferences);
+		Button buttonPlay =  findViewById(R.id.buttonPlay);
 		android.support.v7.widget.Toolbar toolbar = findViewById(R.id.toolbar);
 		setSupportActionBar(toolbar);
 		TextView titulo = (TextView) findViewById(R.id.textTitle);
@@ -41,6 +42,15 @@ public class MainActivity extends AppCompatActivity
 			@Override public void onClick(View v)
 			{
 				Intent intent = new Intent(getApplicationContext(),preferencias.class);
+				startActivity(intent);
+			}
+		});
+
+		buttonPlay.setOnClickListener(new View.OnClickListener()
+		{
+			@Override public void onClick(View v)
+			{
+				Intent intent = new Intent(getApplicationContext(),games.class);
 				startActivity(intent);
 			}
 		});

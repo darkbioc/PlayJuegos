@@ -26,4 +26,11 @@
     <string name="Radio3">Hill Climbing Racing</string>
     <string name="Radio4">Pocket Soccer</string>
     <string name="Radio5">Radiant Defence</string>
+    <string name="iconAngry">Angry Birds Icon</string>
+    <string name="iconDragon">Dragon Fly Icon</string>
+    <string name="iconHill">Hill Climb Racing Icon</string>
+    <string name="iconPocket">Pocket Soccer Icon</string>
+    <string name="iconRadiant">Radiant Defence Icon</string>
+    <string name="iconNinja">Ninja Jump Icon</string>
+    <string name="textNinja">Ninja Jump</string>
 </resources>
